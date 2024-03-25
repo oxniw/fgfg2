@@ -1,0 +1,1 @@
+alert("ig somebrothercoding ติดตามไอจีนี้เพื่ิอรับการช่วยเหลือ")
